@@ -1,0 +1,13 @@
+C:\Users\laye cisse\source\repos\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.exe
+C:\Users\laye cisse\source\repos\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.deps.json
+C:\Users\laye cisse\source\repos\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.runtimeconfig.json
+C:\Users\laye cisse\source\repos\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.runtimeconfig.dev.json
+C:\Users\laye cisse\source\repos\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.dll
+C:\Users\laye cisse\source\repos\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.pdb
+C:\Users\laye cisse\source\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.csprojAssemblyReference.cache
+C:\Users\laye cisse\source\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\laye cisse\source\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.AssemblyInfo.cs
+C:\Users\laye cisse\source\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\laye cisse\source\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.dll
+C:\Users\laye cisse\source\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.pdb
+C:\Users\laye cisse\source\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.genruntimeconfig.cache
